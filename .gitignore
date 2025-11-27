@@ -1,3 +1,13 @@
+node_modules
+.next
+.vercel
+.env
+.env.local
+dist
+out
+*.log
+**/.DS_Store
+**/Thumbs.db
 # Comprehensive .gitignore template for AI-generated projects
 # Covers most common languages, frameworks, and tools
 
